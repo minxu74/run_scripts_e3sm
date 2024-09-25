@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<file id="stream" version="1.0">
+<dataSource>
+   GENERIC
+</dataSource>
+<domainInfo>
+  <variableNames>
+     time    time
+        xc      lon
+        yc      lat
+        area    area
+        mask    mask
+  </variableNames>
+  <filePath>
+     
+         /ccsopen/home/mfx/scratch/TRENDY2024
+  </filePath>
+  <fileNames>
+     domain.lnd.r05_EC15to60E2r4.201104.nc
+  </fileNames>
+</domainInfo>
+<fieldInfo>
+   <variableNames>
+     PRECTmms precn
+   </variableNames>
+   <filePath>
+     
+         /ccsopen/home/mfx/scratch/TRENDY2024
+   </filePath>
+   <fileNames>
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1901.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1902.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1903.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1904.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1905.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1906.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1907.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1908.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1909.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1910.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1911.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1912.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1913.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1914.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1915.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1916.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1917.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1918.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1919.nc
+elmforc.TRENDY.c2024_0.5x0.5.PREC.1920.nc
+   </fileNames>
+   <offset>
+      0
+   </offset>
+</fieldInfo>
+</file>

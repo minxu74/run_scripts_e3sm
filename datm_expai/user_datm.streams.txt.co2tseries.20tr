@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<file id="stream" version="1.0">
+<dataSource>
+   GENERIC
+</dataSource>
+<domainInfo>
+  <variableNames>
+     time    time
+        lonc    lon
+        latc    lat
+        area    area
+        mask    mask
+  </variableNames>
+  <filePath>
+     /global/cfs/cdirs/m2467/prj_minxu/rubisco_cmip6_ssp/EXPAI/co2
+  </filePath>
+  <fileNames>
+     fco2_datm_ssp370_1765-2500_c241006.nc
+  </fileNames>
+</domainInfo>
+<fieldInfo>
+   <variableNames>
+     CO2        co2diag
+   </variableNames>
+   <filePath>
+     /global/cfs/cdirs/m2467/prj_minxu/rubisco_cmip6_ssp/EXPAI/co2
+   </filePath>
+   <fileNames>
+    fco2_datm_ssp370_1765-2500_c241006.nc
+   </fileNames>
+   <offset>
+      0
+   </offset>
+</fieldInfo>
+</file>

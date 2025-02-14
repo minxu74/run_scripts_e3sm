@@ -253,7 +253,7 @@ cat <<EOF >user_nl_elm_${strinst}
                   'TOTECOSYSN','TOTECOSYSP','TOTSOMC','TOTSOMN','TOTSOMP'
 
 
-    stream_fldfilename_ndep = '${fndep_dir}/${fndep_nml[$ik]}'
+    stream_fldfilename_ndep = '${fndep_dir}/${fndep_nml[0]}'
     stream_year_last_ndep = 2101
     fsurdat = '/global/homes/m/minxu/projbgc/rubisco_cmip6_ssp/surfdata_map/surfdata_360x720cru_simyr1850_c241007.nc'
     flanduse_timeseries = '/global/homes/m/minxu/projbgc/rubisco_cmip6_ssp/surfdata_map/landuse.timeseries_360x720cru_HIST_simyr1850-2015_c241007.nc'
